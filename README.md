@@ -4,10 +4,17 @@ Sistema especialista pra fazer diagnóstico diferencial de sintomas.
 
 ## Como rodar o projeto
 
-Primeiro, instala as dependências:
+Primeiro, entra na pasta do projeto:
+```bash
+cd health-compass
+```
+
+Depois, instala as dependências:
 ```bash
 npm install
 ```
+
+Se quiser, também pode ver as dependências no arquivo `requirements.txt`.
 
 Depois, só rodar:
 ```bash
