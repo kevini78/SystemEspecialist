@@ -1,6 +1,8 @@
 # Sistema Especialista de Sintomas
 
-Sistema especialista pra fazer diagnóstico diferencial de sintomas.
+Sistema feito para conseguir distinção entre doenças com sintomas bem parecidos, e no final da respostas, ele gera uma porcentagem com a chance de qual doença pode ser.
+
+As regras para chegarem nas doenças foram pegas do gov.br sobre cada doença em específico.
 
 ## Como rodar o projeto
 
@@ -9,7 +11,7 @@ Primeiro, entra na pasta do projeto:
 cd health-compass
 ```
 
-Depois, instala as dependências:
+Depois, tem que instalar as dependências (é obrigatório pra funcionar):
 ```bash
 npm install
 ```
