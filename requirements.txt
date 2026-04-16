@@ -1,0 +1,22 @@
+# Sistema Especialista de Sintomas
+# Este é um projeto Node.js com Vite + React + TypeScript
+
+# Dependências principais do projeto são gerenciadas pelo package.json
+# Para instalar as dependências, execute:
+# npm install
+
+# Para rodar o projeto em desenvolvimento:
+# npm run dev
+
+# Para fazer o build de produção:
+# npm run build
+
+# Dependências principais:
+# - react: ^18.3.1
+# - react-dom: ^18.3.1
+# - vite: ^5.4.19
+# - typescript: ^5.8.3
+# - tailwindcss: ^3.4.17
+# - @radix-ui/*: componentes de UI
+# - lucide-react: ícones
+# - zod: validação de dados
